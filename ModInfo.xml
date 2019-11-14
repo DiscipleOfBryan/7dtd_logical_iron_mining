@@ -11,7 +11,7 @@
 <xml>
 	<ModInfo>
 		<Name			value="logical_iron_mining" />
-		<Description	value="Returns to the logical workflow of harvesting raw iron ore from terrIronOre blocks, smelting that, then converting it to scrap or forged iron as needed." />
+		<Description	value="Returns to the logical workflow of harvesting raw iron ore from terrIronOre and oreIronBoulder blocks, smelting that, then converting it to scrap or forged iron as needed." />
 		<Author			value="DiscipleOfBryan" />
 		<Version		value="1.0" />
 		<Website		value="" />
