@@ -8,6 +8,9 @@
 	I love the game you've got going here, but design decisions like this will ruin everything in a heartbeat. Be better.
  -->
  <configs>
-	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Harvest' and @name='resourceScrapIron']/@count">50</set>
+	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Harvest' and @name='resourceScrapIron']/@count">21</set>
 	<set xpath="/blocks/block[@name='terrOreIron']/drop[@event='Harvest' and @name='resourceScrapIron']/@name">resourceIronFragment</set>
+
+	<set xpath="/blocks/block[@name='oreIronBoulder']/drop[@event='Harvest' and @name='resourceScrapIron']/@count">21</set>
+	<set xpath="/blocks/block[@name='oreIronBoulder']/drop[@event='Harvest' and @name='resourceScrapIron']/@name">resourceIronFragment</set>
 </configs>
