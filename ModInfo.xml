@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+	Dear reader/developer:
+	
+	Seriously, who in their right mind decided that it was a good idea to make Iron Ore spit out post-forge processed scrap iron?
+	Who, if anyone at all, was complaining about the logical workflow involving raw iron harvested from blocks?
+	At what point was their complaint, if there was one, considered valid?
+	
+	I love the game you've got going here, but design decisions like this will ruin everything in a heartbeat. Be better.
+ -->
+<xml>
+	<ModInfo>
+		<Name			value="logical_iron_mining" />
+		<Description	value="Returns to the logical workflow of harvesting raw iron ore from terrIronOre blocks, smelting that, then converting it to scrap or forged iron as needed." />
+		<Author			value="DiscipleOfBryan" />
+		<Version		value="1.0" />
+		<Website		value="" />
+	</ModInfo>
+</xml>
